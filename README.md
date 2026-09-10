@@ -4,7 +4,7 @@
 
 Project Exhibition 01 is an AI/ML project developed to classify breast histopathology images as **Benign** or **Malignant**.
 
-The system performs image validation before prediction. Valid images are preprocessed and passed to a single CNN model for classification.
+The system performs image validation before prediction. Valid images are preprocessed and passed to a CNN model for classification.
 
 ---
 
